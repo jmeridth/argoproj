@@ -50,6 +50,8 @@
 | Jonathan West| [jgwest](https://github.com/jgwest) | Approver - CD | [Red Hat](https://www.github.com/redhat/) |
 | May Zhang | [mayzhang2000](https://github.com/mayzhang2000) | Approver - CD | [Intuit](https://www.github.com/intuit/) |
 | Tianchu Zhao | [tczhao](https://github.com/tczhao) | Reviewer - Workflows | Independent |
+| Marco Kilchhofer | [mkilchhofer](https://github.com/mkilchhofer) | Maintainer - Helm | [Swiss Post](https://post.ch) |
+| Jason Meridth | [jmeridth](https://github.com/jmeridth) | Maintainer - Helm | [Procore](https://procore.com) |
 
 ## Alumni
 
